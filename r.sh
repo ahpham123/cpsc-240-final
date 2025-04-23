@@ -1,3 +1,6 @@
+#Anderson Pham - Section 3
+#884815002
+
 rm *.lis
 rm *.o
 rm *.out

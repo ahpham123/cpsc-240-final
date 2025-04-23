@@ -3,14 +3,13 @@
 
 
 %include "setup.inc"
-
 global getqwords
 
 segment .text
 
 getqwords:
     backupgpr
-    
+
     mov rax, [rdi]
-    
+
     restoregpr
